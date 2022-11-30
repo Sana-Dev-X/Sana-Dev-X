@@ -6,7 +6,7 @@
 - Junior Data Base Administrator (SQL Server & Oracle Database)
 - I'm very curious and interested in learn more about the most of applications I work with.
 
-Experieces & Studies:
+Experiences & Studies:
 
  Java:
 - Spring Framework(Spring MVC, Spring Data JPA, Spring Security, Spring Boot);
