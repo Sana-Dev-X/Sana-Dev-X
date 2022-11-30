@@ -21,7 +21,8 @@ Experieces & Studies:
 Methodology:
 - Scrum;
  
-  DBA:
+
+DBA:
 - Oracle DB;
 - SQL Server;
 - MySQL;
