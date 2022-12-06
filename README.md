@@ -11,7 +11,7 @@ Experiences & Studies:
  Java:
 - Spring Framework(Spring MVC, Spring Data JPA, Spring Security, Spring Boot);
 - ORM Hibernate;
-- Maeven;
+- Maven;
 - GIT & GitHub;
 - TDD(JUnity);
 - SOLID;
