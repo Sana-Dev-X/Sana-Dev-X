@@ -1,10 +1,8 @@
 - @Sana-Dev-X
-- I’m interested in increase my dev skills
 - Currently learning java programming
 - My main language is Portuguese, my English is in progress. 
-- Brazillian
-- Junior Data Base Administrator (SQL Server & Oracle Database)
-- I'm very curious and interested in learn more about the most of applications I work with.
+- Brazilian
+- Data Base Administrator (SQL Server & Oracle Database)
 
 Experiences & Studies:
 
@@ -16,12 +14,9 @@ Experiences & Studies:
 - TDD(JUnity);
 - SOLID;
 
-
-
 Methodology:
 - Scrum;
  
-
 DBA:
 - Oracle DB;
 - SQL Server;
@@ -30,17 +25,12 @@ DBA:
 - SQL Developer.
 - SQL Plus.
 
-
-
 Operational Systems:
 - Windows
 - Linux(Ubuntu, RedHat, SUSE);
 
-
-
 DevOps:
 - Shell Scripting;
 
-
-- University student of System Analysis and Development at UNIP.
+- University student of System Analysis and Development at Anhembi Morumbi.
 
