@@ -3,7 +3,7 @@
 
 Veja abaixo um resumo sobre meus estudos e experiências:
 
- Development - Java:
+ Desenvolvimento - Java:
 - Spring Framework(Spring MVC, Spring Data JPA, Spring Security, Spring Boot, Spring Web);
 - ORM Hibernate;
 - Maven;
