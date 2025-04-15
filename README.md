@@ -1,16 +1,42 @@
-## Hi there 👋
+## Olá! 👋
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,docker,html,css,ts,angular,git,github,vscode)](https://skillicons.dev)
 
-<!--
-**Sana-Dev-X/Sana-Dev-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Veja abaixo um resumo sobre meus estudos e experiências:
 
-Here are some ideas to get you started:
+ Development - Java:
+- Spring Framework(Spring MVC, Spring Data JPA, Spring Security, Spring Boot, Spring Web);
+- ORM Hibernate;
+- Maven;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Principios e metodologias:
+- Scrum;
+- Kanban;
+- TDD(JUnity);
+- SOLID;
+ 
+ DBA:
+- Oracle DB;
+- SQL Server;
+- MySQL;
+- Oracle Enterprise Manager;
+- SQL Plus;
+- Oracle SQL Developer;
+
+ SO:
+- Windows;
+- Linux(Ubuntu, RedHat, SUSE);
+
+ DevOps:
+- Shell Scripting;
+- GIT e Github;
+- Docker;
+
+  Web:
+- HTML & CSS;
+- Requisições HTTP com Postman;
+- Desenvolvimento de REST API;
+
+Universitário de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi.
+
+
+
