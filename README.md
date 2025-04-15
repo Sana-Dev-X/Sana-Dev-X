@@ -31,7 +31,7 @@ Principios e metodologias:
 - GIT e Github;
 - Docker;
 
-  Web:
+ Web:
 - HTML & CSS;
 - Requisições HTTP com Postman;
 - Desenvolvimento de REST API;
