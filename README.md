@@ -1,5 +1,5 @@
 ## Olá! 👋
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,docker,html,css,ts,angular,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,hibernate,docker,html,css,ts,angular,git,github,vscode)](https://skillicons.dev)
 
 Veja abaixo um resumo sobre meus estudos e experiências:
 
