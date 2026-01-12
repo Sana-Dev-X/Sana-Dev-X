@@ -3,41 +3,20 @@
 
 Veja abaixo um resumo sobre meus estudos e experiências:
 
- Desenvolvimento:
-- Java;
-- Spring Framework(Spring MVC, Spring Data JPA, Spring Security, Spring Boot, Spring Web);
-- ORM Hibernate;
-- Maven;
+Desenvolvedor Full Stack Junior.
+Atuando na codificação de aplicações web com integração à emissores de notas fiscais e ao SAP B1.
 
- Web:
-- HTML & CSS;
-- Postman;
-- TypeScript;
-- Angular;
+Estudos e experiências:
 
-Principios e metodologias:
-- Scrum;
-- Kanban;
-- TDD(JUnity);
-- SOLID;
- 
- DBA:
-- Oracle DB;
-- SQL Server;
-- MySQL;
-- Oracle Enterprise Manager;
-- SQL Plus;
-- Oracle SQL Developer;
+- Frontend: TypeScript, Angular, HTML e CSS
+- Backend: Java, Spring Framework(Boot, MVC, Data JPA, Security)
+- Bancos de dados: Oracle, MySQL, Postgres e SQL Server
+- Metodologias: Scrum, Kanban, TDD (JUnit) e princípios SOLID
+- Ferramentas: Docker, Git/GitHub, Postman e Shell Script
 
- SO:
-- Windows;
-- Linux(Ubuntu, RedHat, SUSE);
+Universitário de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi.
 
- DevOps:
-- Shell Scripting;
-- GIT e Github;
-- Docker;
-
+#Java #TypeScript #Spring #Angular #FullStack #DesenvolvedorJunior
 Universitário de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi.
 
 
