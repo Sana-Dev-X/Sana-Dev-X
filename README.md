@@ -3,10 +3,17 @@
 
 Veja abaixo um resumo sobre meus estudos e experiências:
 
- Desenvolvimento - Java:
+ Desenvolvimento:
+- Java;
 - Spring Framework(Spring MVC, Spring Data JPA, Spring Security, Spring Boot, Spring Web);
 - ORM Hibernate;
 - Maven;
+
+ Web:
+- HTML & CSS;
+- Postman;
+- TypeScript;
+- Angular;
 
 Principios e metodologias:
 - Scrum;
@@ -30,11 +37,6 @@ Principios e metodologias:
 - Shell Scripting;
 - GIT e Github;
 - Docker;
-
- Web:
-- HTML & CSS;
-- Requisições HTTP com Postman;
-- Desenvolvimento de REST API;
 
 Universitário de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi.
 
